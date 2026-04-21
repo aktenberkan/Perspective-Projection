@@ -1,3 +1,5 @@
+![Project Result](Central_Projection.png)
+
 # 📸 Perspective Projection & Pinhole Camera Simulator
 
 This project implements a 3D-to-2D perspective projection engine from scratch using **Python** and **NumPy**. It simulates the mathematical principles of the **Pinhole Camera Model**, mapping 3D world coordinates onto a 2D image plane.
